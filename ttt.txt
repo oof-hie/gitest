@@ -1,2 +1,8 @@
-lokal>*>
+lokal>*>+
 úű-_git
+online
+
+
+
+
+git push
